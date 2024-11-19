@@ -26,7 +26,7 @@ Un bot Discord simple capable de :
 ### Étapes
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre_utilisateur/DiscordBot.git
+   git clone https://github.com/0xToto/DiscordBot.git
    cd DiscordBot
 
 2. Installer les dépendances : 
